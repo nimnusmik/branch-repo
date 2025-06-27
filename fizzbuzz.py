@@ -5,3 +5,5 @@ for j in rang(1,16+1):
 		print('fizz')
 	else:
 		print(i)
+
+print('fizzbuzz done!)
